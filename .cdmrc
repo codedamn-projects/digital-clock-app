@@ -1,4 +1,4 @@
-tabs: ["README.md", "src/App.jsx"]
+tabs: ["readme.md", "src/App.jsx"]
 terminal-one: |
   yarn install
   yarn dev
